@@ -2,7 +2,10 @@
 
 Example text here.
 
+## My Second Page
 [My second page](./second.md)
+
+## My CV Page
 [CV page](./pdf.md)
 
 ## Subtitle
@@ -14,5 +17,3 @@ Example text here.
 - Unordered sub-list. 
 
 [Example Link to Google](https://www.google.com)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
