@@ -3,6 +3,7 @@
 Example text here.
 
 [My second page](./second.md)
+[CV page](./pdf.md)
 
 ## Subtitle
 
