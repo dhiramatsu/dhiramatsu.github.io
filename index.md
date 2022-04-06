@@ -2,11 +2,7 @@
 
 Example text here.
 
-## My Second Page
-[My second page](./second.md)
-
-## My CV Page
-[CV page](./pdf.md)
+## [CV](./pdf.md)
 
 ## Subtitle
 
